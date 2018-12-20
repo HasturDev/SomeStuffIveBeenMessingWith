@@ -1,0 +1,1 @@
+Just some things i've been playing around with while i've been learning the Java programming language. Enjoy!
